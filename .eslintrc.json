@@ -1,0 +1,7 @@
+{
+  "extends": ["next/core-web-vitals"]
+  // Add any custom rules or overrides here
+  // "rules": {
+  //   "react/no-unescaped-entities": "warn"
+  // }
+}
